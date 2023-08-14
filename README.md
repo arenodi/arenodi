@@ -1,7 +1,5 @@
 ![a text image with 'Andre Alves arenodi. FullStack Developer in the making'.](capa.JPG)
 
-## arenodi's profile
-
 ## About me
 
 I'm arenodi, an industrial worker giving his best to get into the Tech Industry.
