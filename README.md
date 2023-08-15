@@ -8,6 +8,9 @@ I'm arenodi, an industrial worker giving his best to get into the Tech Industry.
 
 ![Javascript](https://skillicons.dev/icons?i=js,python,jquery,react,postgres,html,css,git,github&theme=light)
 
+### Getting the hang of it:
+![Redux](https://skillicons.dev/icons?i=redux,nodejs,docker,postman&theme=light)
+
 ## My Projects
 
 Heres a list of some of my projects and learning trails.
