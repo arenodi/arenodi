@@ -17,4 +17,4 @@ Heres a list of some of my projects and learning trails.
 
 - [Rodizio-Porteiros](https://github.com/arenodi/rodizio-porteiros) ![python](https://skillicons.dev/icons?i=python&theme=light)
 - [freeCodeCamp](https://github.com/arenodi/free-code-camp) ![Javascript](https://skillicons.dev/icons?i=js&theme=light)
-- [Rodizio-Porteiros](https://github.com/arenodi/quran_data_engineering) ![python](https://skillicons.dev/icons?i=python&theme=light)
+- [Quran Data Engineering](https://github.com/arenodi/quran_data_engineering) ![python](https://skillicons.dev/icons?i=python&theme=light)
