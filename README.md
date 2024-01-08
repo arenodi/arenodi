@@ -14,7 +14,9 @@ I'm arenodi, an industrial worker giving his best to get into the Tech Industry.
 ## My Projects
 
 Heres a list of some of my projects and learning trails.
+![python](https://skillicons.dev/icons?i=python&theme=light)
+- [Rodizio-Porteiros](https://github.com/arenodi/rodizio-porteiros)
+- [Quran Data Engineering](https://github.com/arenodi/quran_data_engineering)
+![Javascript](https://skillicons.dev/icons?i=js&theme=light)
+- [freeCodeCamp](https://github.com/arenodi/free-code-camp)
 
-- [Rodizio-Porteiros](https://github.com/arenodi/rodizio-porteiros) ![python](https://skillicons.dev/icons?i=python&theme=light)
-- [freeCodeCamp](https://github.com/arenodi/free-code-camp) ![Javascript](https://skillicons.dev/icons?i=js&theme=light)
-- [Quran Data Engineering](https://github.com/arenodi/quran_data_engineering) ![python](https://skillicons.dev/icons?i=python&theme=light)
