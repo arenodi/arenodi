@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm arenodi, an industrial worker giving his best to get into the Tech Industry.
+I'm arenodi, a Data Engineer trying his best to learn the most.
 
 ### Skills:
 
