@@ -1,5 +1,3 @@
-![a text image with 'Andre Alves arenodi. FullStack Developer in the making'.](capa.JPG)
-
 ## About me
 
 I'm arenodi, a Data Engineer trying his best to learn the most.
