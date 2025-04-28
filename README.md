@@ -4,10 +4,13 @@ I'm arenodi, a Data Engineer trying his best to learn the most.
 
 ### Skills:
 
-![Javascript](https://skillicons.dev/icons?i=js,python,jquery,react,postgres,html,css,git,github&theme=light)
+![Javascript](https://skillicons.dev/icons?i=js,jquery,react,postgres,html,css,git,github&theme=light)
 
-### Getting the hang of it:
-![Redux](https://skillicons.dev/icons?i=redux,nodejs,docker,postman&theme=light)
+![Redux](https://skillicons.dev/icons?i=redux,nodejs&theme=light)
+
+![Ops](https://skillicons.dev/icons?i=aws,docker,postman&theme=light)
+
+![Python](https://skillicons.dev/icons?i=python,pandas,airflow&theme=light)
 
 ## My Projects
 
